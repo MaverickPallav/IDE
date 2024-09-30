@@ -6,7 +6,7 @@ import memento.*;
 import singleton.*;
 
 // IDE Simulation
-public class myTextEditor {
+public class myIDE {
     public static void main(String[] args) {
         // Observer Pattern - FileManager and FileEditor
         FileManager fileManager = new FileManager();
